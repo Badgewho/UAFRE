@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "lib.pyx", line 2391, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "TCGA-D8-A27K-01"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/baizhiwang/Badge/MambaMIL/main.py", line 261, in <module>
+    results = main(args)
+  File "/home/baizhiwang/Badge/MambaMIL/main.py", line 42, in main
+    train_dataset, val_dataset, test_dataset = dataset.return_splits(args.backbone, args.patch_size, from_id=False,
+  File "/home/baizhiwang/Badge/MambaMIL/dataset/dataset_generic.py", line 254, in return_splits
+    all_splits = pd.read_csv(csv_path,  dtype={'val': 'Int64','test':'Int64'})      #BCNB
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 626, in _read
+    return parser.read(nrows)
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1923, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File "parsers.pyx", line 838, in pandas._libs.parsers.TextReader.read_low_memory
+  File "parsers.pyx", line 921, in pandas._libs.parsers.TextReader._read_rows
+  File "parsers.pyx", line 1066, in pandas._libs.parsers.TextReader._convert_column_data
+  File "parsers.pyx", line 1105, in pandas._libs.parsers.TextReader._convert_tokens
+  File "parsers.pyx", line 1211, in pandas._libs.parsers.TextReader._convert_with_dtype
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/core/arrays/numeric.py", line 277, in _from_sequence_of_strings
+    scalars = to_numeric(strings, errors="raise", dtype_backend="numpy_nullable")
+  File "/home/baizhiwang/miniconda3/envs/mambamil/lib/python3.10/site-packages/pandas/core/tools/numeric.py", line 232, in to_numeric
+    values, new_mask = lib.maybe_convert_numeric(  # type: ignore[call-overload]
+  File "lib.pyx", line 2433, in pandas._libs.lib.maybe_convert_numeric
+ValueError: Unable to parse string "TCGA-D8-A27K-01" at position 0

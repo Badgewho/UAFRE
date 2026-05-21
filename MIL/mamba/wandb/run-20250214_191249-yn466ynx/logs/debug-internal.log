@@ -1,0 +1,19 @@
+{"time":"2025-02-14T19:12:49.890394377+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_191249-yn466ynx/logs/debug-core.log"}
+{"time":"2025-02-14T19:12:50.100005027+08:00","level":"INFO","msg":"created new stream","id":"yn466ynx"}
+{"time":"2025-02-14T19:12:50.100039813+08:00","level":"INFO","msg":"stream: started","id":"yn466ynx"}
+{"time":"2025-02-14T19:12:50.101515781+08:00","level":"INFO","msg":"handler: started","stream_id":"yn466ynx"}
+{"time":"2025-02-14T19:12:50.10155204+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"yn466ynx"}
+{"time":"2025-02-14T19:12:50.101747279+08:00","level":"INFO","msg":"sender: started","stream_id":"yn466ynx"}
+{"time":"2025-02-14T19:12:50.500837793+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T20:22:35.750941434+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-14T20:23:07.980650615+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-14T20:23:42.056896396+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-14T20:24:15.860854186+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/xu-zhang-0112/BCNB_subtyping/yn466ynx/file_stream\": dial tcp 35.186.228.49:443: connect: connection timed out"}
+{"time":"2025-02-14T20:39:42.105721488+08:00","level":"INFO","msg":"stream: closing","id":"yn466ynx"}
+{"time":"2025-02-14T20:39:42.105805065+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T20:39:42.107286199+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T20:39:44.921555827+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T20:39:45.28260995+08:00","level":"INFO","msg":"handler: closed","stream_id":"yn466ynx"}
+{"time":"2025-02-14T20:39:45.282659954+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yn466ynx"}
+{"time":"2025-02-14T20:39:45.282664242+08:00","level":"INFO","msg":"sender: closed","stream_id":"yn466ynx"}
+{"time":"2025-02-14T20:39:45.282779027+08:00","level":"INFO","msg":"stream: closed","id":"yn466ynx"}

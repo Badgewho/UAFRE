@@ -1,0 +1,15 @@
+{"time":"2025-02-16T18:23:46.010994044+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250216_182345-lc5pgcj3/logs/debug-core.log"}
+{"time":"2025-02-16T18:23:46.229161478+08:00","level":"INFO","msg":"created new stream","id":"lc5pgcj3"}
+{"time":"2025-02-16T18:23:46.229237902+08:00","level":"INFO","msg":"stream: started","id":"lc5pgcj3"}
+{"time":"2025-02-16T18:23:46.229294558+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T18:23:46.229353519+08:00","level":"INFO","msg":"handler: started","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T18:23:46.229445592+08:00","level":"INFO","msg":"sender: started","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T18:23:46.682990664+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T20:22:51.207387054+08:00","level":"INFO","msg":"stream: closing","id":"lc5pgcj3"}
+{"time":"2025-02-16T20:22:51.207415818+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T20:22:51.20833318+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T20:22:53.486710724+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T20:22:53.872719121+08:00","level":"INFO","msg":"handler: closed","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T20:22:53.872756742+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T20:22:53.872775467+08:00","level":"INFO","msg":"sender: closed","stream_id":"lc5pgcj3"}
+{"time":"2025-02-16T20:22:53.873021812+08:00","level":"INFO","msg":"stream: closed","id":"lc5pgcj3"}

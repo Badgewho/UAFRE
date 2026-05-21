@@ -1,0 +1,28 @@
+Setting Backbone: resnet50
+Setting Patchsize: 256
+Setting Backbone: resnet50
+Setting Patchsize: 256
+Setting Backbone: resnet50
+Setting Patchsize: 256
+
+Training Fold 0!
+
+Init train/val/test splits...
+Done!
+Training on 846 samples
+Validating on 106 samples
+Testing on 106 samples
+
+Init loss function... Done!
+
+Init Model...
+Traceback (most recent call last):
+  File "/home/baizhiwang/Badge/MambaMIL/main.py", line 261, in <module>
+    results = main(args)
+  File "/home/baizhiwang/Badge/MambaMIL/main.py", line 50, in main
+    results, test_auc, val_auc, test_acc, val_acc  = train(datasets, i, args)
+  File "/home/baizhiwang/Badge/MambaMIL/utils/core_utils.py", line 143, in train
+    from models.S4MIL import S4Model
+  File "/home/baizhiwang/Badge/MambaMIL/models/S4MIL.py", line 7, in <module>
+    import opt_einsum as oe
+ModuleNotFoundError: No module named 'opt_einsum'

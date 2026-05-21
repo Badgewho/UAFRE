@@ -1,0 +1,15 @@
+{"time":"2025-02-16T18:23:45.708087605+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250216_182345-gem8jvew/logs/debug-core.log"}
+{"time":"2025-02-16T18:23:45.922422488+08:00","level":"INFO","msg":"created new stream","id":"gem8jvew"}
+{"time":"2025-02-16T18:23:45.922480767+08:00","level":"INFO","msg":"stream: started","id":"gem8jvew"}
+{"time":"2025-02-16T18:23:45.922538336+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"gem8jvew"}
+{"time":"2025-02-16T18:23:45.922598519+08:00","level":"INFO","msg":"sender: started","stream_id":"gem8jvew"}
+{"time":"2025-02-16T18:23:45.92258307+08:00","level":"INFO","msg":"handler: started","stream_id":"gem8jvew"}
+{"time":"2025-02-16T18:23:46.357896306+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T21:01:43.840956001+08:00","level":"INFO","msg":"stream: closing","id":"gem8jvew"}
+{"time":"2025-02-16T21:01:43.841023538+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T21:01:43.841836851+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T21:01:45.923674915+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T21:01:46.347661561+08:00","level":"INFO","msg":"handler: closed","stream_id":"gem8jvew"}
+{"time":"2025-02-16T21:01:46.347693231+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gem8jvew"}
+{"time":"2025-02-16T21:01:46.347724249+08:00","level":"INFO","msg":"sender: closed","stream_id":"gem8jvew"}
+{"time":"2025-02-16T21:01:46.347825841+08:00","level":"INFO","msg":"stream: closed","id":"gem8jvew"}

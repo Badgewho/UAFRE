@@ -1,0 +1,15 @@
+{"time":"2025-02-14T21:03:40.866508843+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_210340-dvs5lg4b/logs/debug-core.log"}
+{"time":"2025-02-14T21:03:40.976837049+08:00","level":"INFO","msg":"created new stream","id":"dvs5lg4b"}
+{"time":"2025-02-14T21:03:40.976880281+08:00","level":"INFO","msg":"stream: started","id":"dvs5lg4b"}
+{"time":"2025-02-14T21:03:40.976903304+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T21:03:40.976933191+08:00","level":"INFO","msg":"handler: started","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T21:03:40.976946005+08:00","level":"INFO","msg":"sender: started","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T21:03:41.376326206+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T23:16:33.354025833+08:00","level":"INFO","msg":"stream: closing","id":"dvs5lg4b"}
+{"time":"2025-02-14T23:16:33.354153165+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T23:16:33.355435667+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T23:16:35.730523846+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T23:16:36.124961892+08:00","level":"INFO","msg":"handler: closed","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T23:16:36.125020403+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T23:16:36.125042055+08:00","level":"INFO","msg":"sender: closed","stream_id":"dvs5lg4b"}
+{"time":"2025-02-14T23:16:36.125209083+08:00","level":"INFO","msg":"stream: closed","id":"dvs5lg4b"}

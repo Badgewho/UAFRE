@@ -1,0 +1,15 @@
+{"time":"2025-02-14T19:12:50.23754207+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_191250-4ao9oy3u/logs/debug-core.log"}
+{"time":"2025-02-14T19:12:50.346699336+08:00","level":"INFO","msg":"created new stream","id":"4ao9oy3u"}
+{"time":"2025-02-14T19:12:50.346727309+08:00","level":"INFO","msg":"stream: started","id":"4ao9oy3u"}
+{"time":"2025-02-14T19:12:50.346752977+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:12:50.346775259+08:00","level":"INFO","msg":"sender: started","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:12:50.346868175+08:00","level":"INFO","msg":"handler: started","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:12:50.771501617+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T19:51:10.612614302+08:00","level":"INFO","msg":"stream: closing","id":"4ao9oy3u"}
+{"time":"2025-02-14T19:51:10.612632055+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T19:51:10.613282327+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T19:51:13.337226571+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T19:51:13.718466543+08:00","level":"INFO","msg":"handler: closed","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:51:13.718528048+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:51:13.718591418+08:00","level":"INFO","msg":"sender: closed","stream_id":"4ao9oy3u"}
+{"time":"2025-02-14T19:51:13.71865648+08:00","level":"INFO","msg":"stream: closed","id":"4ao9oy3u"}

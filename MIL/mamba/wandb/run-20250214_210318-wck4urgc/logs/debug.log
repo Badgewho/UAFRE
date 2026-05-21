@@ -1,0 +1,24 @@
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_setup.py:_flush():68] Configure stats pid to 3543362
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_setup.py:_flush():68] Loading settings from /data/baizhiwang/.config/wandb/settings
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_setup.py:_flush():68] Loading settings from /home/baizhiwang/Badge/MambaMIL/mamba/wandb/settings
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_210318-wck4urgc/logs/debug.log
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_210318-wck4urgc/logs/debug-internal.log
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_init.py:init():756] calling init triggers
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-14 21:03:18,495 INFO    MainThread:3543362 [wandb_init.py:init():789] starting backend
+2025-02-14 21:03:18,700 INFO    MainThread:3543362 [wandb_init.py:init():793] sending inform_init request
+2025-02-14 21:03:18,702 INFO    MainThread:3543362 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-14 21:03:18,702 INFO    MainThread:3543362 [wandb_init.py:init():808] backend started and connected
+2025-02-14 21:03:18,703 INFO    MainThread:3543362 [wandb_init.py:init():901] updated telemetry
+2025-02-14 21:03:18,708 INFO    MainThread:3543362 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-14 21:03:19,234 INFO    MainThread:3543362 [wandb_init.py:init():994] starting run threads in backend
+2025-02-14 21:03:19,421 INFO    MainThread:3543362 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-14 21:03:19,421 INFO    MainThread:3543362 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-14 21:03:19,421 INFO    MainThread:3543362 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-14 21:03:19,421 INFO    MainThread:3543362 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-14 21:03:19,423 INFO    MainThread:3543362 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-14 21:03:19,423 INFO    MainThread:3543362 [wandb_run.py:_config_callback():1253] config_cb None None {'data_root_dir': '/home/baizhiwang/Badge/abMIL/dataset/TCGA-BRCA6', 'max_epochs': 150, 'lr': 0.0002, 'label_frac': 1.0, 'reg': 1e-05, 'seed': 1, 'k': 5, 'k_start': 0, 'k_end': -1, 'results_dir': '/home/baizhiwang/Badge/MambaMIL/Badge/TCGA-BRCA6/PR/s4model/resnet50_s1', 'split_dir': '/home/baizhiwang/Badge/abMIL/CLAM/Badge/TCGA-BRCA-result/split/BRCA_subtyping_100', 'log_data': True, 'testing': False, 'early_stopping': True, 'opt': 'adam', 'drop_out': 0.0, 'model_type': 's4model', 'exp_code': 's4model/resnet50', 'weighted_sample': True, 'task': 'BRCA_subtyping', 'backbone': 'resnet50', 'patch_size': '256', 'preloading': 'no', 'in_dim': 1536, 'label_col': 'PR', 'data_dir': '/home/baizhiwang/Badge/abMIL/dataset/TCGA-BRCA6', 'mambamil_rate': 5, 'mambamil_layer': 2, 'mambamil_type': 'SRMamba', 'n_classes': 2}
+2025-02-14 22:56:54,564 WARNING MsgRouterThr:3543362 [router.py:message_loop():75] message_loop has been closed

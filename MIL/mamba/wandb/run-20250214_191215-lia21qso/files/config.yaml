@@ -1,0 +1,87 @@
+_wandb:
+    value:
+        cli_version: 0.19.6
+        m: []
+        python_version: 3.10.16
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+                - 55
+            "3":
+                - 23
+                - 55
+            "4": 3.10.16
+            "5": 0.19.6
+            "8":
+                - 5
+            "12": 0.19.6
+            "13": linux-x86_64
+backbone:
+    value: resnet50
+data_dir:
+    value: /home/baizhiwang/Badge/abMIL/dataset/BCNB6
+data_root_dir:
+    value: /home/baizhiwang/Badge/abMIL/dataset/BCNB6
+drop_out:
+    value: 0
+early_stopping:
+    value: true
+exp_code:
+    value: max_mil/resnet50
+in_dim:
+    value: 1536
+k:
+    value: 5
+k_end:
+    value: -1
+k_start:
+    value: 0
+label_col:
+    value: ER
+label_frac:
+    value: 1
+log_data:
+    value: true
+lr:
+    value: 0.0002
+mambamil_layer:
+    value: 2
+mambamil_rate:
+    value: 5
+mambamil_type:
+    value: SRMamba
+max_epochs:
+    value: 50
+model_type:
+    value: max_mil
+n_classes:
+    value: 2
+opt:
+    value: adam
+patch_size:
+    value: "256"
+preloading:
+    value: "no"
+reg:
+    value: 1e-05
+results_dir:
+    value: /home/baizhiwang/Badge/MambaMIL/Badge/BCNB6/ER/max_mil/resnet50_s1
+seed:
+    value: 1
+split_dir:
+    value: /home/baizhiwang/Badge/abMIL/CLAM/Badge/BCNB-result/split/BCNB_subtyping_100
+task:
+    value: BCNB_subtyping
+testing:
+    value: false
+weighted_sample:
+    value: true

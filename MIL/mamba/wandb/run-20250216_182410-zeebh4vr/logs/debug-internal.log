@@ -1,0 +1,15 @@
+{"time":"2025-02-16T18:24:10.865808397+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250216_182410-zeebh4vr/logs/debug-core.log"}
+{"time":"2025-02-16T18:24:11.078448461+08:00","level":"INFO","msg":"created new stream","id":"zeebh4vr"}
+{"time":"2025-02-16T18:24:11.078480491+08:00","level":"INFO","msg":"stream: started","id":"zeebh4vr"}
+{"time":"2025-02-16T18:24:11.078536687+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T18:24:11.078554931+08:00","level":"INFO","msg":"handler: started","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T18:24:11.078610776+08:00","level":"INFO","msg":"sender: started","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T18:24:11.541408177+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T20:10:07.869695842+08:00","level":"INFO","msg":"stream: closing","id":"zeebh4vr"}
+{"time":"2025-02-16T20:10:07.869749424+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T20:10:07.870705629+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T20:10:10.134055389+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T20:10:10.552975246+08:00","level":"INFO","msg":"handler: closed","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T20:10:10.553045539+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T20:10:10.55305677+08:00","level":"INFO","msg":"sender: closed","stream_id":"zeebh4vr"}
+{"time":"2025-02-16T20:10:10.55323554+08:00","level":"INFO","msg":"stream: closed","id":"zeebh4vr"}

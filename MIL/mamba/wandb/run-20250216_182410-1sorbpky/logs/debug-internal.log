@@ -1,0 +1,15 @@
+{"time":"2025-02-16T18:24:10.671980229+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250216_182410-1sorbpky/logs/debug-core.log"}
+{"time":"2025-02-16T18:24:10.881202433+08:00","level":"INFO","msg":"created new stream","id":"1sorbpky"}
+{"time":"2025-02-16T18:24:10.8812331+08:00","level":"INFO","msg":"stream: started","id":"1sorbpky"}
+{"time":"2025-02-16T18:24:10.881282293+08:00","level":"INFO","msg":"sender: started","stream_id":"1sorbpky"}
+{"time":"2025-02-16T18:24:10.881266403+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"1sorbpky"}
+{"time":"2025-02-16T18:24:10.88135502+08:00","level":"INFO","msg":"handler: started","stream_id":"1sorbpky"}
+{"time":"2025-02-16T18:24:11.487073862+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T21:01:27.005167552+08:00","level":"INFO","msg":"stream: closing","id":"1sorbpky"}
+{"time":"2025-02-16T21:01:27.005200494+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T21:01:27.005957501+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T21:01:29.916150081+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T21:01:30.448184051+08:00","level":"INFO","msg":"handler: closed","stream_id":"1sorbpky"}
+{"time":"2025-02-16T21:01:30.448219958+08:00","level":"INFO","msg":"sender: closed","stream_id":"1sorbpky"}
+{"time":"2025-02-16T21:01:30.448212384+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1sorbpky"}
+{"time":"2025-02-16T21:01:30.448302223+08:00","level":"INFO","msg":"stream: closed","id":"1sorbpky"}

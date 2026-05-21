@@ -1,0 +1,15 @@
+{"time":"2025-02-14T21:02:47.721638772+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home/baizhiwang/Badge/MambaMIL/mamba/wandb/run-20250214_210247-tensnhm1/logs/debug-core.log"}
+{"time":"2025-02-14T21:02:47.931129636+08:00","level":"INFO","msg":"created new stream","id":"tensnhm1"}
+{"time":"2025-02-14T21:02:47.931165564+08:00","level":"INFO","msg":"stream: started","id":"tensnhm1"}
+{"time":"2025-02-14T21:02:47.931356575+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:47.931514082+08:00","level":"INFO","msg":"handler: started","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:47.931545171+08:00","level":"INFO","msg":"sender: started","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:48.368964801+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-14T21:02:48.665373326+08:00","level":"INFO","msg":"stream: closing","id":"tensnhm1"}
+{"time":"2025-02-14T21:02:48.665463727+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-14T21:02:48.666372314+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-14T21:02:50.06936424+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-14T21:02:50.459021954+08:00","level":"INFO","msg":"handler: closed","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:50.459255866+08:00","level":"INFO","msg":"sender: closed","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:50.45925275+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tensnhm1"}
+{"time":"2025-02-14T21:02:50.459564019+08:00","level":"INFO","msg":"stream: closed","id":"tensnhm1"}

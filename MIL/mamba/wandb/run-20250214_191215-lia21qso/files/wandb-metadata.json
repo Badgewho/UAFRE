@@ -1,0 +1,130 @@
+{
+  "os":  "Linux-5.15.0-124-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-02-14T11:12:15.423669Z",
+  "args":  [
+    "--drop_out",
+    "0",
+    "--early_stopping",
+    "--lr",
+    "2e-4",
+    "--k",
+    "5",
+    "--k_start",
+    "-1",
+    "--k_end",
+    "-1",
+    "--label_frac",
+    "1.0",
+    "--exp_code",
+    "max_mil/resnet50",
+    "--patch_size",
+    "256",
+    "--weighted_sample",
+    "--task",
+    "BCNB_subtyping",
+    "--backbone",
+    "resnet50",
+    "--results_dir",
+    "/home/baizhiwang/Badge/MambaMIL/Badge/BCNB6/ER",
+    "--model_type",
+    "max_mil",
+    "--log_data",
+    "--label_col",
+    "ER",
+    "--split_dir",
+    "/home/baizhiwang/Badge/abMIL/CLAM/Badge/BCNB-result/split/BCNB_subtyping_100",
+    "--data_root_dir",
+    "/home/baizhiwang/Badge/abMIL/dataset/BCNB6",
+    "--data_dir",
+    "/home/baizhiwang/Badge/abMIL/dataset/BCNB6",
+    "--preloading",
+    "no",
+    "--in_dim",
+    "1536",
+    "--mambamil_rate",
+    "5",
+    "--mambamil_layer",
+    "2",
+    "--mambamil_type",
+    "SRMamba"
+  ],
+  "program":  "/home/baizhiwang/Badge/MambaMIL/main.py",
+  "codePath":  "main.py",
+  "git":  {
+    "remote":  "https://github.com/isyangshu/MambaMIL.git",
+    "commit":  "8b55cd102a64835738ecb3f28c9e0130da10e6cd"
+  },
+  "email":  "xu.zhang.0112@gmail.com",
+  "root":  "/home/baizhiwang/Badge/MambaMIL/mamba",
+  "host":  "miracle-3",
+  "executable":  "/home/baizhiwang/miniconda3/envs/mambamil/bin/python",
+  "cpu_count":  128,
+  "cpu_count_logical":  128,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  8,
+  "disk":  {
+    "/":  {
+      "total":  "933345280000",
+      "used":  "30548697088"
+    }
+  },
+  "memory":  {
+    "total":  "540841066496"
+  },
+  "cpu":  {
+    "count":  128,
+    "countLogical":  128
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    },
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}
